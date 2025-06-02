@@ -45,9 +45,9 @@ Welcome to my Data Analysis Portfolio! This repository showcases my skills and e
 
 ### 📂 Data Engineering
 
-Project Link | Associated | Tools | Project Description
----|---|---|---
-⚠️ [Fraud Detection for Online Transaction Pipeline](https://github.com/faizns/final-project-fraud-transaction-pipeline/blob/main/readme.md) | IYKRA | Python, GCP(Google Cloud Storage, BigQuery), Spark, Kafka, Looker Studio | Developed and implemented an end-to-end ETL pipeline for processing online payment transaction data. The pipeline integrated batch and streaming processing, transformed raw data using Spark, built a data warehouse applying a fact and dimensional model, provided notifications when fraudulent activity was detected, and created a reporting dashboard with Looker Data Studio.
+Project Link | Tools | Project Description
+---|---|---
+⚠️ [Fraud Detection for Online Transaction Pipeline](https://github.com/faizns/final-project-fraud-transaction-pipeline/blob/main/readme.md) | Python, GCP(Google Cloud Storage, BigQuery), Spark, Kafka, Looker Studio | Developed and implemented an end-to-end ETL pipeline for processing online payment transaction data. The pipeline integrated batch and streaming processing, transformed raw data using Spark, built a data warehouse applying a fact and dimensional model, provided notifications when fraudulent activity was detected, and created a reporting dashboard with Looker Data Studio.
 <br>
 <br>
 
