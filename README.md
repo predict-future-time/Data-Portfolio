@@ -91,13 +91,4 @@ Project Link | Associated | Tools | Project Description
 
 ### 📂 Complated Course and Certification
 
-- [Advanced SQL: MySQL Data Analysis and Business Intelligent](https://ude.my/UC-6a752a95-d22b-4710-bd1a-e227056ad481) | Udemy: Maven Analytics
-- [Advanced NLP with spaCy](https://www.datacamp.com/statement-of-accomplishment/course/21cbd0b3646b8cc477fff5630e8d20e6593ac9e8) | DataCamp
-- [Natural Language Processing with spaCy](https://www.datacamp.com/statement-of-accomplishment/course/05bad291fd71acbd1fa49fa7e319ce1c66440f99) | DataCamp
-- [Introduction to Natural Language Processing in Python](https://www.datacamp.com/statement-of-accomplishment/course/c6332b638b5fa9af2f61c6ef96a34ece9afbf278) | DataCamp
-- [Data Science](https://drive.google.com/file/d/15jI41wG9-IJpw9wQnerdvYVDb6MDlL6D/view?usp=sharing) | Binar x Kominfo RI: Digital Talent Scolarship
-- [Business Intelligence](https://drive.google.com/file/d/1oxUPN37HsEwsJxdcCCr-4itis7jzVWGx/view?usp=sharing) | Rakamin Academy 
-- [Data Science: Machine Learning Specialization](https://drive.google.com/file/d/1jp_QES7kNes42cqCmWYQTG0_2SbBm2EX/view?usp=sharing) | Rakamin Academy 
-- [Big Data Using Python](https://drive.google.com/file/d/1ZWTRXlOxr5-RYfjYSqnX7xXJOoXT8lVu/view) | CISCO x Kominfo RI: Digital Talent Scolarship  
-- [Data Science Math Skill](https://www.coursera.org/account/accomplishments/verify/V7HHC225KFUZ) | Coursera: Duke University 
-- [Python Lanjutan](https://badgr.com/public/assertions/MYpDoTshS82SMDNBbcYvqw?identity__email=naidasalimah@gmail.com) | Skilvul 
+
