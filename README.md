@@ -12,6 +12,13 @@ In this project I have used survival analysis to study how the likelihood of the
 
 #
 
+<img align="left" width="250" height="150" src="https://github.com/predict-future-time/Data-Portfolio/blob/main/Images/Images/blinkit_dashboard.png"> **[Blinkit Sales Data Analysis - PowerBI Dashboard](https://github.com/predict-future-time/Blinkit-Sales-Data-Analysis-PowerBI-Dashboard)**
+
+This project showcases a sales and outlet analytics dashboard created for Blinkit — India's Last Minute App.
+It highlights total sales, number of items, average sales, average rating, outlet establishment trends, and item type distribution.
+
+#
+
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Instacart Market Basket Analysis](https://github.com/archd3sai/Instacart-Market-Basket-Analysis)**
 
 The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
